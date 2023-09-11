@@ -1,0 +1,6 @@
+/Users/pavelerokhin/CS_Labs/Lab_02/Lab_02_2/bin/Debug/Lab_02_2.exe
+/Users/pavelerokhin/CS_Labs/Lab_02/Lab_02_2/bin/Debug/Lab_02_2.pdb
+/Users/pavelerokhin/CS_Labs/Lab_02/Lab_02_2/obj/Debug/Lab_02_2.csproj.AssemblyReference.cache
+/Users/pavelerokhin/CS_Labs/Lab_02/Lab_02_2/obj/Debug/Lab_02_2.csproj.CoreCompileInputs.cache
+/Users/pavelerokhin/CS_Labs/Lab_02/Lab_02_2/obj/Debug/Lab_02_2.exe
+/Users/pavelerokhin/CS_Labs/Lab_02/Lab_02_2/obj/Debug/Lab_02_2.pdb
