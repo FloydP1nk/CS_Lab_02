@@ -6,22 +6,18 @@ namespace Lab_02
     {
         public virtual void Study()
         {
-            // Console.WriteLine($"study");
         }
 
         public virtual void Read()
         {
-            // Console.WriteLine($"read");
         }
 
         public virtual void Write()
         {
-            // Console.WriteLine($"write");
         }
 
         public virtual void Relax()
         {
-            // Console.WriteLine($"relax");
         }
     }
 
